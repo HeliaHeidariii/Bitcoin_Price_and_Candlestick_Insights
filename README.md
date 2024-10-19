@@ -41,5 +41,4 @@ Day 30: Open: 32000, High: 32500, Low: 31500, Close: 32200
 ## Model
 The deep learning model utilizes an LSTM (Long Short-Term Memory) network to analyze and predict future candlestick patterns. The model is trained on historical Bitcoin data and fine-tuned to predict prices for the next 30 days.
 
-## Contributing
-Contributions are welcome! Feel free to submit issues and create pull requests for improvements or new features.
+
